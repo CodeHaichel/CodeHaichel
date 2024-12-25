@@ -33,6 +33,7 @@ Saya merupakan lulusan **Teknik Komputer dan Jaringan (TKJ)** dari **SMKN 1 Mart
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 ---
+
 ## 📫 Hubungi Saya
 - 📧 Email: [haicelheaven10@gmail.com](mailto:your.haicelheaven10@gmail.com)
 - 📸 Instagram: [@haichelheaven](https://instagram.com/yourusername)
