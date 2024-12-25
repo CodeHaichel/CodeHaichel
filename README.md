@@ -2,7 +2,8 @@
 
 Halo! Selamat datang di profil saya. 😊
 
-Saya merupakan lulusan **Teknik Komputer dan Jaringan (TKJ)** dari **SMKN 1 Martapura** dan saat ini sedang melanjutkan studi di **Universitas Islam Kalimantan (UNISKA) Banjarmasin**.
+Saya merupakan lulusan **Teknik Komputer dan Jaringan (TKJ)** dari **SMKN 1 Martapura** dan saat ini sedang melanjutkan studi di **
+Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin**.
 
 ---
 
