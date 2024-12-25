@@ -5,12 +5,7 @@ Halo! Selamat datang di profil saya. 😊
 Saya merupakan lulusan **Teknik Komputer dan Jaringan (TKJ)** dari **SMKN 1 Martapura** dan saat ini sedang melanjutkan studi di **Universitas Islam Kalimantan (UNISKA) Banjarmasin**.
 
 ---
-## 📊 Statistik GitHub Saya
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+
 
 ## ✨ Tentang Saya
 - 📚 **Pendidikan**: Teknik Komputer dan Jaringan (TKJ) | Mahasiswa UNISKA Banjarmasin  
@@ -31,7 +26,13 @@ Saya merupakan lulusan **Teknik Komputer dan Jaringan (TKJ)** dari **SMKN 1 Mart
 </div>
 
 ---
-
+## 📊 Statistik GitHub Saya
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+---
 ## 📫 Hubungi Saya
 - 📧 Email: [haicelheaven10@gmail.com](mailto:your.haicelheaven10@gmail.com)
 - 📸 Instagram: [@haichelheaven](https://instagram.com/yourusername)
