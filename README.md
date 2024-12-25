@@ -8,7 +8,7 @@ Saya merupakan lulusan **Teknik Komputer dan Jaringan (TKJ)** dari **SMKN 1 Mart
 
 
 ## ✨ Tentang Saya
-- 📚 **Pendidikan**: Teknik Komputer dan Jaringan (TKJ) | Mahasiswa UNISKA Banjarmasin  
+- 📚 **Pendidikan**: Teknik Komputer dan Jaringan (TKJ) | Mahasiswa UNISKA Banjarbaru  
 - 💻 **Minat**: Teknologi jaringan, pemrograman, dan pengembangan perangkat lunak  
 - 🌱 **Saat ini saya sedang mempelajari**:  
   - Jaringan komputer (Networking)  
