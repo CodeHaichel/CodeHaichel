@@ -1,17 +1,3 @@
-
-
-<!--
-**CodeHaichel/CodeHaichel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hello World! 👋
 
 Halo! Selamat datang di profil saya. 😊
@@ -19,6 +5,12 @@ Halo! Selamat datang di profil saya. 😊
 Saya merupakan lulusan **Teknik Komputer dan Jaringan (TKJ)** dari **SMKN 1 Martapura** dan saat ini sedang melanjutkan studi di **Universitas Islam Kalimantan (UNISKA) Banjarmasin**.
 
 ---
+## 📊 Statistik GitHub Saya
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ## ✨ Tentang Saya
 - 📚 **Pendidikan**: Teknik Komputer dan Jaringan (TKJ) | Mahasiswa UNISKA Banjarmasin  
